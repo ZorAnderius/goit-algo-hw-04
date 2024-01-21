@@ -31,7 +31,6 @@ def main():
     print(f"{'|  Merge sort': <17} | {time_small_merge: <19.5f} | {time_medium_merge: <18.5f} | {time_large_merge: <20.5}")
     print(f"{'|  Sorted': <17} | {time_small_sorted: <19.5f} | {time_medium_sorted: <19.5f}| {time_large_sorted: <20.5}")
     print(f"{'|  Sort': <17} | {time_small_sort: <19.5f} | {time_medium_sort: <18.5f} | {time_large_sort: <20.5}")
- 
 
 if __name__ == '__main__':
     main()
